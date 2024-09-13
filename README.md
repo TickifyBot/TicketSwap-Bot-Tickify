@@ -22,3 +22,4 @@ Please Note: Tickify is going into BETA soon! If interested, be sure to join the
 https://discord.gg/jaPmXTcCWD
 
 ![alt text](https://github.com/TickifyBot/TicketSwap-Bot-Tickify/blob/main/tickify%20banner%20wip.png?raw=true)
+[;)](44a01d625eaad9f9319e4a25e115ff06647e0458)
